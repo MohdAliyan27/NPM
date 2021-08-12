@@ -1,0 +1,19 @@
+mkdir <packagename>  
+cd <packagename> 
+
+>git init  
+>git remote add origin https://github.com/{github username}/<repositoryname>.git  
+
+
+
+
+
+>git add index.js package.json example.js README.md
+>git config --global user.email "your git email add"
+>git config --global user.name "your git user name"
+>git commit -m "Initial commit"
+>git push origin master
+
+npm publish
+
+npm unpublish --force

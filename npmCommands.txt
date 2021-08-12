@@ -1,0 +1,39 @@
+First create folder
+
+mkdir maxbot
+cd maxbot
+npm init
+npm install bootstrap@3.2.0 --save
+npm install react --save
+npm list   //This will list all packages installed for the maxbot project.
+npm install jasmine --save-dev  //Only on dev testing framework **jasmine ** 
+npm list --depth 0
+npm list --depth 1
+
+npm run build
+
+
+Name of the package is simple and appropriate
+https://www.npmjs.com/package/packagename
+
+npm adduser
+//created the user with username https://www.npmjs.com/~mohammad2703
+
+npm config ls
+
+npm publish
+
+npm version <update_type>   // <update_type> may be ""patch/minor/major""
+npm publish
+
+# addsub-package
+A Node.js package that does simple arithmetic addition and subtraction. 
+## Usage
+First, install the package using npm 
+    npm install addsub-package --save
+Next, require the package and use it as:
+ [Comment: Please check this sentence]
+    var isNullOrEmpty = require('addsub-package');
+    console.log(addsub-package(3,4)); // 7
+## License
+Apache 2.0
