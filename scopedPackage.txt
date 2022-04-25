@@ -13,7 +13,7 @@ npm init --scope=scopename
 
 npm publish --access=public
 
-//private
+//private 
 >npm publish --access restricted OR >npm publish 
 
 //public to private package change
