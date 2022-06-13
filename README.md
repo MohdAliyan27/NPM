@@ -8,3 +8,4 @@ Then, require the package and use it:
  var isNullOrEmpty = require('is-null-or-empty');
  console.log(isNullOrEmpty("")); // true
  console.log(isNullOrEmpty("Hello World")); // false
+ console.log(TRUE);
