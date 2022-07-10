@@ -6,3 +6,4 @@ function isNullOrEmpty(input) {
  module.exports = isNullOrEmpty;
 9
 7
+8
