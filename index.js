@@ -9,4 +9,4 @@ function isNullOrEmpty(input) {
 8
 9
 8
-U
+U. 
