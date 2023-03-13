@@ -5,4 +5,4 @@ function isNullOrEmpty(input) {
  // Export to make the function available to other packages
  module.exports = isNullOrEmpty;
 9
-1
+1234567890
