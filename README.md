@@ -1,4 +1,4 @@
-# sample2703 phmp
+# sample2703 phm
 <Description of what the package does>
 ## Usage
 Install the package using npm :
